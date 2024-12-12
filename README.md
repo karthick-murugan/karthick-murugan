@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Multidots as Senior WordPress Engineer
 - 👯 I’m looking to collaborate with all WordPress Enthusiasts
-- 🤔 I’m looking for help with WordPress Contribution.
+- 🤔 I’m passionate about contributing to WordPress and actively supporting its development.
 - 💬 Ask me about WordPress
 - 📫 How to reach me: karthick.murugan02@gmail.com
 
